@@ -4,4 +4,4 @@ This project delivers a robust, end-to-end data engineering and analytics soluti
 
 
 And this is the workflow for this project
-![Alt text for the image](Wrokflow.png)
+![Alt text for the image](Workflow.png)
