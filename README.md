@@ -11,7 +11,7 @@ The project is structured into several modular components that work together to 
 
   1. Web Scraping (Selenium & Proxy Management):
 
-      Initiates a browser session (Chrome in headless mode) using Selenium WebDriver.
+      - Initiates a browser session (Chrome in headless mode) using Selenium WebDriver.
 
       Utilizes a custom ProxyScrape module to dynamically fetch and validate active proxy servers from free-proxy-list.net. This ensures resilience against IP blocking and enhances scraping efficiency.
 
