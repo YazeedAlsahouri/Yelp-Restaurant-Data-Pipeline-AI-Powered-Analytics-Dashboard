@@ -49,4 +49,5 @@ The project is structured into several modular components that work together to 
 
           - A dynamic restaurant selection mechanism.
        
-            
+       ![Alt text for the image](png1.png)
+       ![Alt text for the image](png2.png)     
