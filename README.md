@@ -30,4 +30,7 @@ The project is structured into several modular components that work together to 
         - restaurant_reviews: Stores individual review details, linked to restaurant_id and using review_id (a timeuuid) as a clustering key, allowing for efficient time-series querying of reviews for a given               restaurant.
 
      - Data insertion is optimized using Cassandra Batch Statements for efficient bulk loading of reviews.
+       
+
+
      ![Alt text for the image](databases.png)
