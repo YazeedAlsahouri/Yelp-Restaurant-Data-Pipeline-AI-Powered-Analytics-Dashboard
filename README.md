@@ -50,4 +50,10 @@ The project is structured into several modular components that work together to 
           - A dynamic restaurant selection mechanism.
        
        ![Alt text for the image](png1.png)
-       ![Alt text for the image](png2.png)     
+       ![Alt text for the image](png2.png)
+
+  4. AI-Powered Review Summarization (Ollama & Llama 3.2):
+
+      - Integrates a locally-hosted Large Language Model (Llama 3.2 via Ollama) to provide on-demand summarization of reviews for any selected restaurant.
+
+      - This feature transforms potentially thousands of individual review texts into a concise, actionable summary, enabling users to quickly grasp key sentiments and themes without reading every comment.
