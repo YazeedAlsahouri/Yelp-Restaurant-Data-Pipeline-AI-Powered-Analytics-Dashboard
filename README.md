@@ -34,3 +34,19 @@ The project is structured into several modular components that work together to 
 
 
      ![Alt text for the image](databases.png)
+
+
+
+  3. Data Visualization & Analytics (Streamlit Dashboard):
+
+      - A user-friendly web dashboard built with Streamlit connects directly to the Cassandra database to retrieve and display the collected data.
+
+      - Features include:
+
+          - Key performance indicators (KPIs) like overall average restaurant rating and total review counts.
+
+          - Interactive visualizations (e.g., bar charts using Plotly and Matplotlib) showcasing restaurant performance comparisons and geographical distribution of reviews.
+
+          - A dynamic restaurant selection mechanism.
+       
+            
