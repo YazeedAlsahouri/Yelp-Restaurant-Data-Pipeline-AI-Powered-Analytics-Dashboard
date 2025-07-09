@@ -4,7 +4,7 @@ This project delivers a robust, end-to-end data engineering and analytics soluti
 
 
 And this is the workflow for this project
-![Alt text for the image](Workflow.png)
+![Alt text for the image](images/Workflow.png)
 
 
 The project is structured into several modular components that work together to form a complete data pipeline:
@@ -33,7 +33,7 @@ The project is structured into several modular components that work together to 
        
 
 
-     ![Alt text for the image](databases.png)
+     ![Alt text for the image](images/databases.png)
 
 
 
@@ -49,8 +49,8 @@ The project is structured into several modular components that work together to 
 
           - A dynamic restaurant selection mechanism.
        
-       ![Alt text for the image](png1.png)
-       ![Alt text for the image](png2.png)
+       ![Alt text for the image](images/png1.png)
+       ![Alt text for the image](images/png2.png)
 
   4. AI-Powered Review Summarization (Ollama & Llama 3.2):
 
